@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ContactWeb", "ContactWeb\ContactWeb.csproj", "{023CBFD8-61CE-4757-A1E3-D935169C1AEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{023CBFD8-61CE-4757-A1E3-D935169C1AEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{023CBFD8-61CE-4757-A1E3-D935169C1AEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{023CBFD8-61CE-4757-A1E3-D935169C1AEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{023CBFD8-61CE-4757-A1E3-D935169C1AEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7A307A0-5CF2-4D5E-A682-901A2D24670B}
+	EndGlobalSection
+EndGlobal
