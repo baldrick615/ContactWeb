@@ -38,7 +38,7 @@ namespace ContactWebModels
 
 
         [DataType(DataType.Date)]
-        public DateType Birthday { get; set; }
+        public DateTime Birthday { get; set; }
 
 
         [Display(Name = "Street Address Line 1")]
