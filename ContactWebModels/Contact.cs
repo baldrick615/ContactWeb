@@ -32,7 +32,7 @@ namespace ContactWebModels
 
         [Phone(ErrorMessage = "Invalid Phone Number")]
         [StringLength(ContactManagerConstants.MAX_PHONE_LENGTH)]
-        [Required(ErrorMessage = "Mobile of Office Phone required.")]
+        [Required(ErrorMessage = "Mobile or Office Phone required.")]
         [Display(Name = "Mobile Phone")]
         public string PhoneSecondary { get; set; }
 
